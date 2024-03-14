@@ -7,4 +7,5 @@
 
 - 其他&nbsp;&nbsp;&nbsp;&nbsp;
   - [五年计划](/docs/Fiveyears-Plans/)
+  - [联系方式](/docs/Contact-Me)
   - [返回主页](https://luofeixiang.com)
