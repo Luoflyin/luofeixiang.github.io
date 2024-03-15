@@ -6,6 +6,7 @@
   - [:ru: Русский](/ru-ru/)
 
 - 其他&nbsp;&nbsp;&nbsp;&nbsp;
-  - [五年计划](/docs/Fiveyears-Plans/)
+  - [五年计划静态](/docs/Fiveyears-Plans/)
+  - [五年计划动态](https://luofeixiang.notion.site/2023-2025-500e73b0e1e94e55b4938e852e90e537?pvs=4)
   - [联系方式](/docs/Contact-Me)
   - [返回主页](https://luofeixiang.com)
